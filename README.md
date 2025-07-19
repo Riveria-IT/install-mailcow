@@ -18,6 +18,6 @@ Es richtet dein System vollständig ein – inklusive Docker, Abhängigkeiten, K
 ### 🔧 Schritt-für-Schritt (empfohlen):
 
 ```bash
-wget https://raw.githubusercontent.com/Riveria-IT/install-mailcow/main/install.sh
-chmod +x install.sh
-./install.sh
+wget https://raw.githubusercontent.com/Riveria-IT/install-mailcow/main/mailcow-setup.sh
+chmod +x mailcow-setup.sh
+./mailcow-setup.sh
